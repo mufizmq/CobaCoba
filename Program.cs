@@ -429,7 +429,6 @@ namespace Coba_Coba
             telepon = Console.ReadLine();
             Console.Write("Alamat email :");
             email = Console.ReadLine();
-
             //menampilkan output
             Console.WriteLine(nama);
             Console.WriteLine(alamat + "/" + telepon);
@@ -476,6 +475,5 @@ namespace Coba_Coba
                 Console.WriteLine("Jawabanmu salah ndul!");
             }
         }
-
     }
 }
